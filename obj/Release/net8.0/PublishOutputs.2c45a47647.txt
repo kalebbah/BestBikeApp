@@ -1,0 +1,7 @@
+/Users/sosbobd/BestBikeApp/pub/BestBikeApp
+/Users/sosbobd/BestBikeApp/pub/appsettings.Development.json
+/Users/sosbobd/BestBikeApp/pub/appsettings.json
+/Users/sosbobd/BestBikeApp/pub/BestBikeApp.dll
+/Users/sosbobd/BestBikeApp/pub/BestBikeApp.deps.json
+/Users/sosbobd/BestBikeApp/pub/BestBikeApp.runtimeconfig.json
+/Users/sosbobd/BestBikeApp/pub/BestBikeApp.pdb
